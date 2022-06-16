@@ -1,0 +1,11 @@
+com.fastasyncworldedit.bukkit
+com.fastasyncworldedit.bukkit.adapter
+com.fastasyncworldedit.bukkit.listener
+com.fastasyncworldedit.bukkit.regions
+com.fastasyncworldedit.bukkit.regions.plotsquared
+com.fastasyncworldedit.bukkit.util
+com.fastasyncworldedit.bukkit.util.image
+com.sk89q.bukkit.util
+com.sk89q.wepif
+com.sk89q.worldedit.bukkit
+com.sk89q.worldedit.bukkit.adapter
