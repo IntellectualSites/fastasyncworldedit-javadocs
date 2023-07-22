@@ -4,7 +4,6 @@ com.fastasyncworldedit.core.command.tool
 com.fastasyncworldedit.core.command.tool.brush
 com.fastasyncworldedit.core.command.tool.scroll
 com.fastasyncworldedit.core.command.tool.sweep
-com.fastasyncworldedit.core.concurrent
 com.fastasyncworldedit.core.configuration
 com.fastasyncworldedit.core.configuration.file
 com.fastasyncworldedit.core.configuration.serialization
