@@ -123,6 +123,7 @@ com.sk89q.worldedit.internal.block
 com.sk89q.worldedit.internal.command
 com.sk89q.worldedit.internal.command.exception
 com.sk89q.worldedit.internal.cui
+com.sk89q.worldedit.internal.event
 com.sk89q.worldedit.internal.expression
 com.sk89q.worldedit.internal.expression.invoke
 com.sk89q.worldedit.internal.helper
