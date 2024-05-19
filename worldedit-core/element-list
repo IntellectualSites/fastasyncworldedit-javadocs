@@ -59,6 +59,7 @@ com.fastasyncworldedit.core.registry
 com.fastasyncworldedit.core.registry.state
 com.fastasyncworldedit.core.util
 com.fastasyncworldedit.core.util.collection
+com.fastasyncworldedit.core.util.gson
 com.fastasyncworldedit.core.util.image
 com.fastasyncworldedit.core.util.progress
 com.fastasyncworldedit.core.util.task
