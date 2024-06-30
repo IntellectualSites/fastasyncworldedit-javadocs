@@ -10,8 +10,10 @@ com.fastasyncworldedit.core.configuration.serialization
 com.fastasyncworldedit.core.database
 com.fastasyncworldedit.core.entity
 com.fastasyncworldedit.core.event.extent
+com.fastasyncworldedit.core.exception
 com.fastasyncworldedit.core.extension.factory
 com.fastasyncworldedit.core.extension.factory.parser
+com.fastasyncworldedit.core.extension.factory.parser.common
 com.fastasyncworldedit.core.extension.factory.parser.mask
 com.fastasyncworldedit.core.extension.factory.parser.pattern
 com.fastasyncworldedit.core.extension.factory.parser.transform
@@ -58,6 +60,7 @@ com.fastasyncworldedit.core.regions.selector
 com.fastasyncworldedit.core.registry
 com.fastasyncworldedit.core.registry.state
 com.fastasyncworldedit.core.util
+com.fastasyncworldedit.core.util.arkitektonika
 com.fastasyncworldedit.core.util.collection
 com.fastasyncworldedit.core.util.gson
 com.fastasyncworldedit.core.util.image
@@ -98,6 +101,7 @@ com.sk89q.worldedit.extent.cache
 com.sk89q.worldedit.extent.clipboard
 com.sk89q.worldedit.extent.clipboard.io
 com.sk89q.worldedit.extent.clipboard.io.legacycompat
+com.sk89q.worldedit.extent.clipboard.io.share
 com.sk89q.worldedit.extent.inventory
 com.sk89q.worldedit.extent.reorder
 com.sk89q.worldedit.extent.transform
