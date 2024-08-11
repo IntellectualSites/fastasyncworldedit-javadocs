@@ -102,6 +102,7 @@ com.sk89q.worldedit.extent.clipboard
 com.sk89q.worldedit.extent.clipboard.io
 com.sk89q.worldedit.extent.clipboard.io.legacycompat
 com.sk89q.worldedit.extent.clipboard.io.share
+com.sk89q.worldedit.extent.clipboard.io.sponge
 com.sk89q.worldedit.extent.inventory
 com.sk89q.worldedit.extent.reorder
 com.sk89q.worldedit.extent.transform
