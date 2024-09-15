@@ -41,6 +41,7 @@ com.fastasyncworldedit.core.history.changeset
 com.fastasyncworldedit.core.internal.command
 com.fastasyncworldedit.core.internal.exception
 com.fastasyncworldedit.core.internal.io
+com.fastasyncworldedit.core.internal.simd
 com.fastasyncworldedit.core.jnbt
 com.fastasyncworldedit.core.jnbt.streamer
 com.fastasyncworldedit.core.limit
@@ -48,6 +49,7 @@ com.fastasyncworldedit.core.math
 com.fastasyncworldedit.core.math.heightmap
 com.fastasyncworldedit.core.math.random
 com.fastasyncworldedit.core.math.transform
+com.fastasyncworldedit.core.nbt
 com.fastasyncworldedit.core.queue
 com.fastasyncworldedit.core.queue.implementation
 com.fastasyncworldedit.core.queue.implementation.blocks
