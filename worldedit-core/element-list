@@ -164,6 +164,7 @@ com.sk89q.worldedit.util.concurrency
 com.sk89q.worldedit.util.eventbus
 com.sk89q.worldedit.util.formatting
 com.sk89q.worldedit.util.formatting.component
+com.sk89q.worldedit.util.formatting.text.serializer.gson
 com.sk89q.worldedit.util.function
 com.sk89q.worldedit.util.gson
 com.sk89q.worldedit.util.io
