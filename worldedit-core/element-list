@@ -1,5 +1,6 @@
 com.fastasyncworldedit.core
 com.fastasyncworldedit.core.command
+com.fastasyncworldedit.core.command.factory
 com.fastasyncworldedit.core.command.tool
 com.fastasyncworldedit.core.command.tool.brush
 com.fastasyncworldedit.core.command.tool.scroll
@@ -185,6 +186,7 @@ com.sk89q.worldedit.world.chunk
 com.sk89q.worldedit.world.entity
 com.sk89q.worldedit.world.fluid
 com.sk89q.worldedit.world.gamemode
+com.sk89q.worldedit.world.generation
 com.sk89q.worldedit.world.item
 com.sk89q.worldedit.world.registry
 com.sk89q.worldedit.world.snapshot
